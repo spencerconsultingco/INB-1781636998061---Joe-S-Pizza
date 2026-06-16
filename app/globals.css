@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { scroll-behavior: smooth; }
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
